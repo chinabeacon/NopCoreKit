@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Company>chinabeacon.cn</Company>
+    <Authors>Changhao Li, Wenyi Zhao, Tao Li, Shuangzhe Wang, Hao Yu, Chen Ma, Yongtao Wang</Authors>
+    <PackageProjectUrl>https://github.com/chinabeacon/NopCoreKit</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/chinabeacon/NopCoreKit</RepositoryUrl>
+    <Copyright>@chinabeacon.cn</Copyright>
+    <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
+    <Description>ChinaBeacon.Sdk.Core</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ChinaBeacon.Sdk.Data.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChinaBeacon.Sdk.Core\ChinaBeacon.Sdk.Core.csproj" />
+  </ItemGroup>
+
+</Project>

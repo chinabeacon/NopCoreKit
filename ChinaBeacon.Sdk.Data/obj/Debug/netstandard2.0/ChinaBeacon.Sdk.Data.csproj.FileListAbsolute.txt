@@ -1,0 +1,11 @@
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\bin\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.deps.json
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\bin\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.dll
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\bin\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.pdb
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\bin\Debug\netstandard2.0\ChinaBeacon.Sdk.Core.dll
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\bin\Debug\netstandard2.0\ChinaBeacon.Sdk.Core.pdb
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.csprojResolveAssemblyReference.cache
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.csproj.CoreCompileInputs.cache
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.AssemblyInfoInputs.cache
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.AssemblyInfo.cs
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.dll
+D:\TFSChinaBeacon\98 服务类产品SDK\01 源代码\DOTNETSTANDRAD\ChinaBeacon.Sdk\ChinaBeacon.Sdk.Data\obj\Debug\netstandard2.0\ChinaBeacon.Sdk.Data.pdb

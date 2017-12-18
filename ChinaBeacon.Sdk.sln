@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinaBeacon.Sdk.Core", "ChinaBeacon.Sdk.Core\ChinaBeacon.Sdk.Core.csproj", "{7480BF54-8A21-4BDA-AA54-0FA478B03FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinaBeacon.Sdk.Data", "ChinaBeacon.Sdk.Data\ChinaBeacon.Sdk.Data.csproj", "{B7F2A3C1-C48C-4D6F-A314-A6422C8B2191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7480BF54-8A21-4BDA-AA54-0FA478B03FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7480BF54-8A21-4BDA-AA54-0FA478B03FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7480BF54-8A21-4BDA-AA54-0FA478B03FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7480BF54-8A21-4BDA-AA54-0FA478B03FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F2A3C1-C48C-4D6F-A314-A6422C8B2191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F2A3C1-C48C-4D6F-A314-A6422C8B2191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F2A3C1-C48C-4D6F-A314-A6422C8B2191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F2A3C1-C48C-4D6F-A314-A6422C8B2191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4FBB4F0-E2FB-4D2E-86DC-49888AA90C98}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://59.110.22.39:8080/tfs/chinabeaconcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ChinaBeacon.Sdk.Core\\ChinaBeacon.Sdk.Core.csproj
+		SccProjectName1 = ChinaBeacon.Sdk.Core
+		SccLocalPath1 = ChinaBeacon.Sdk.Core
+		SccProjectUniqueName2 = ChinaBeacon.Sdk.Data\\ChinaBeacon.Sdk.Data.csproj
+		SccProjectName2 = ChinaBeacon.Sdk.Data
+		SccLocalPath2 = ChinaBeacon.Sdk.Data
+	EndGlobalSection
+EndGlobal
