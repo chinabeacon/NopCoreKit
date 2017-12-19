@@ -28,16 +28,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A4FBB4F0-E2FB-4D2E-86DC-49888AA90C98}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://59.110.22.39:8080/tfs/chinabeaconcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ChinaBeacon.Sdk.Core\\ChinaBeacon.Sdk.Core.csproj
-		SccProjectName1 = ChinaBeacon.Sdk.Core
-		SccLocalPath1 = ChinaBeacon.Sdk.Core
-		SccProjectUniqueName2 = ChinaBeacon.Sdk.Data\\ChinaBeacon.Sdk.Data.csproj
-		SccProjectName2 = ChinaBeacon.Sdk.Data
-		SccLocalPath2 = ChinaBeacon.Sdk.Data
-	EndGlobalSection
 EndGlobal
